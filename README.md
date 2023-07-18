@@ -9,7 +9,7 @@ The following table presents the 2023 weekly challenges, along with an indicatio
 |Week|Challenge|Description|Solved|
 | ----------------------- | ----------------------------------- |----------------------- | ----------------------------------- |
 |1|The Data Source Bank|[ℹ️](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html)|[✅](week-1)|
-|2|International Bank Account Numbers|[ℹ️](https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html)||
+|2|International Bank Account Numbers|[ℹ️](https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html)|[✅](week-2)|
 |3|Targets for DSB|[ℹ️](https://preppindata.blogspot.com/2023/01/2023-week-3-targets-for-dsb.html)||
 |4|New Customers|[ℹ️](https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html)||
 |5|DSB Ranking|[ℹ️](https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html)||
