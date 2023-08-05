@@ -12,9 +12,9 @@ The following table presents the 2023 weekly challenges, along with an indicatio
 |2|International Bank Account Numbers|[ℹ️](https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html)|[✅](week-2)|
 |3|Targets for DSB|[ℹ️](https://preppindata.blogspot.com/2023/01/2023-week-3-targets-for-dsb.html)|[✅](week-3)|
 |4|New Customers|[ℹ️](https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html)|[✅](week-4)|
-|5|DSB Ranking|[ℹ️](https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html)||
-|6|DSB Customer Ratings|[ℹ️](https://preppindata.blogspot.com/2023/02/2023-week-6-dsb-customer-ratings.html)||
-|7|Flagging Fraudulent Suspicions|[ℹ️](https://preppindata.blogspot.com/2023/02/2023-week-7-flagging-fraudulent.html)||
+|5|DSB Ranking|[ℹ️](https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html)|[✅](week-5)|
+|6|DSB Customer Ratings|[ℹ️](https://preppindata.blogspot.com/2023/02/2023-week-6-dsb-customer-ratings.html)|[✅](week-6)|
+|7|Flagging Fraudulent Suspicions|[ℹ️](https://preppindata.blogspot.com/2023/02/2023-week-7-flagging-fraudulent.html)|[✅](week-7)|
 |8|Taking Stock|[ℹ️](https://preppindata.blogspot.com/2023/02/2023-week-8-taking-stock.html)||
 |9|Customer Bank Statements|[ℹ️](https://preppindata.blogspot.com/2023/03/2023-week-9-customer-bank-statements.html)||
 |10|What's my balance on this day?|[ℹ️](https://preppindata.blogspot.com/2023/03/2023-week-10-whats-my-balance-on-this.html)||
